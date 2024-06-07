@@ -1,5 +1,5 @@
 <h1 align="left">Hi, My name is Muhammad Faiq Ammar </h1>
-<p align="left">I'm a college student from University of Jember which have skill in backend and front-end development.</p>
+<p align="left">I'm a college student from University of Jember which have skill in backend and front-end development and also Machine Learning.</p>
 <h3 align="center">Skills that I have</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
